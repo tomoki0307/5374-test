@@ -1,5 +1,5 @@
 label,sublabel,styles,bgcolor
-燃やすごみ,,,,#ff0000
+燃やすごみ,,,img.moyasu2.svg,#ff0000
 燃やさないごみ,,,,#733b96
 資源ごみ,,,,#77ae1f
 資源の日,,,,#2dc7aa
